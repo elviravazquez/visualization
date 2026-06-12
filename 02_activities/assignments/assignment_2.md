@@ -10,24 +10,26 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      For the bad one, I'm choosing this one: 
+      https://public.tableau.com/app/profile/vizgrowth/viz/Formula12024LapTimesBeeswarm/Beeswarm
+      
+      Summary of the graphic: This shows all the lap times for the 2024 F1 season. They are ordered from fastest to slowest, color-coded by the grand prix. You can also click on a specific dot to get information on the specific lap time, driver, location, and lap number. At the same time, it highlights all the lap times for a given grand prix.
+      
+      I chose this as a bad visualization as the axis is not well-defined with numbers. While I could click at a point and see the time, it would be better if the axis showed tick marks and times. You can't get a big picture of what the data is showing beyond speed. There are no labels for the colors that define of the grand prix until you click on a point. It is also loaded with lots of data and it is slow to show the information for a given point. 
 
-
-
-
-
+        
+      For the good one, I'm choosing this one: 
+      https://public.tableau.com/app/profile/adrian.zinovei/viz/HRDashboardRWFD2024/HR_Dashboard
+      
+      The graphic shows the data of an HR department. It shows the number of people in the company, new hires, and terminated employees. It also shows the different departments, how satisfied people are with the company, depending on gender, age group, department and income. When clicking on any of the categories (e.g. male), all the numbers update. The data is well presented; it is clear what the numbers represent, and the overall graphic is visually pleasing. The trend line on the bar graph is useful as well. There are also the salary, new, and terminated tabs with more information. In the terminated tab, there is information for reasons on the end of employment, like retirement which allows us to see a better picture of what is going on.
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
-
-
-
-
-
+      Multiple things could be improved in the first graph. First of all, it would be to add tick marks on the time/x -axis. There is also a lot of data being shown, which can be counterproductive when you are trying to extract meaning from the data. For example, I could either only have the fastest lap for each driver or an average of the lap times for a given driver. I also noticed that there are some outliers at the end right side of the graph that might correspond to issues in the race or car, and so, don’t really tell the story of what is going on. This also causes all the interesting data on the let to be bunched up. I think having a label legend for the color choice of each grandprix always showing would be good. I think some important information is missing like the choice of tire, as it influences the lap time significantly and can explain the large variations in time within the same race and even for the same driver. Finally, I’m not sure if the data includes qualification times, as it is not specified in the source of the data.
+      
+      While the second graphic had a lot of strengths, it seemed like it had too much information. For example, in the terminated tab, it shows the distribution of marital status. That information should be private and not added to the graphic, as it is irrelevant. Some of the axes and units can also be better shown in the data.
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
