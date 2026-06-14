@@ -1,0 +1,56 @@
+Notes for the first visualization class, Jun 3rd
+
+
+Activity:
+
+Visaulization 1:
+- we can learn the number of killings, the age of the people and information about the killing
+- Is it neutral? it doesn't seem very objective when using the predictive age of life, there is also provocative language
+- wehter it's good or bad, it depends on its purpose
+
+Visualization 2:
+- we can learn the number of active shoorters over time
+- it seems more objective compated to first one, there's no vocabulary that is trying to spark an emotional response
+
+How to make it look like a blank page?
+- neutral color palate
+- but that doesn't make it necessarily neutral, it depends what story you are trying to tell
+
+what are the purposed of visualization?
+- persuading, comparison, evaluating and exploring
+
+- need to understando the attribute type fo the data to choose the correct visualization
+
+How is our data visualization perceived?
+- use cognitive psychology
+- gestalt principles: proximity, similarity, continuity, closure, enclosure, connection
+- cognitive load: intrinsic(new info), germane(familiarity), extranous(complexity of the info)
+- visualization can create different congnitive loade
+
+- working memory is limited, show 2 graphs instead of expecting people to remember
+- skip 3D unless it's necessary
+
+4 conventions of data visualization:
+- 2D image, clean layout, geometric shapes and lines, inclusion of data sources at the bottom of the iamge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
