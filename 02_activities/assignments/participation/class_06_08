@@ -1,0 +1,20 @@
+Notes for Jun 8th class
+
+Reproducibility is very important, researchers should be able to reproduce the data to check it's correct
+it is also ethical and practical
+
+How do we make the visualization reproducible?
+- programmatically, use code instead of programs like adobe
+- 
+
+See code for the rest.
+
+Activity: commenting the code
+- important to explain code that diverges from the standard code
+- 
+
+FAIR principles
+Findability
+Accessibility
+Interoperability
+Reusability
