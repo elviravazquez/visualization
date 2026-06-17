@@ -1,0 +1,30 @@
+Data set: 
+https://open.toronto.ca/dataset/licensed-dogs-and-cats/
+
+
+What software did you use to create your data visualization?
+- python: matplotlib and seaborn
+
+Who is your intended audience?
+- the general population
+
+What information or message are you trying to convey with your visualization?
+- I'm trying to show the most popular dog breeds in toronto in 2025
+
+What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots?
+- I tried to make is more interesting by adding pictures of the partcular dog breed. I followed the example that we learned in class to add pictures on the figure. I also tilted the x labels so they don't look so crowded.
+
+How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+- The visualization should be very reproducible as it is done with python, an open source tool. All the figures are available online as well.
+
+How did you ensure that your data visualization is accessible?
+- I think by adding pictures of the dog, it would make the figure more understandable.
+
+Who are the individuals and communities who might be impacted by your visualization?
+- I don't think this figure will have much impact to any community in particular. It could be useful information for a animal advocacy society though.
+
+How did you choose which features of your chosen dataset to include or exclude from your visualization?
+- I chose the most popular breeds. There were more than 100 breeds and it would be too much data for one figure of this type.
+
+What ‘underwater labour’ contributed to your final data visualization product?
+- nothing.
