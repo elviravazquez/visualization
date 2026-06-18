@@ -1,0 +1,43 @@
+Notes for the visualization class on June 15th
+
+Data visualization as advocacy
+
+
+Activity
+- the diagram showed that there was little space for people to exist, let alone live
+- show people being used as objects being transported, showing the inhumane conditions 
+- moral: poeple can't even walk, they have to crawl
+- emotion appeal: innhumane conditions, invokes anger and empathy
+
+2 functions for advocacy:
+-presentation
+-representation
+
+
+form: 
+- there are non-traditional forms to visualize data
+- pulse video: interesting dynamic visualization but you don't really understand what it's trying to show, don't really understand with the axis. An advantage is that the data can updata all the time, could be used for something like stocks. But there are already easier ways to visualize things anyway
+- watermarks video:
+-untitled: visualization can also be combined with art, shows the weightloss caused by HIV, is it really data visualization when the data is not really backed with values/data?
+- data visualization can be rhetorical objects
+
+case study: gender bias in teaching evaluations
+
+- difference between the visualization: the right one is more interactive, but have to know what words you want to explore to get some interesting data, 
+-left one requires less congnitive load but i personally understand it less than the one on the right
+
+Activity:
+- immediate type of change, can't compare the results of one word to the next
+- don't mantain the associations
+- even the axis change
+
+
+
+
+
+
+
+
+
+
+

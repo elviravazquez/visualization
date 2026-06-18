@@ -1,0 +1,53 @@
+Notes for the first visualization class, Jun 1st
+
+Graphs can reveal information that can be used to explain or solve world problems.
+
+Activity: What makes good visualizations?
+
+First figure:
+- kinda pleasign to look like, nice colors, but not quite useful
+- the figure makes it hard to know exactly what value for each continent, because of the 3D bars
+- the message is understandable, ocenia had the longest life expectancy in 2007
+- the visualization is not great, the angle of the data is not ideal, and the choice of values for the axis are not great, they should be whole numbers, ideally multiples of 5 or 10. It seems unnecessary to have the label legend
+- it's also lacking a source for the data
+
+
+Second figure:
+- it's kinda funny, not ideal for reading the data
+- it's hard to read the value
+- discouragest us to look at the actual data
+- it does have a source
+
+Third figure:
+- the aspect ratio is a problem, as it might seem that the data is growing faster in one compared to the other one
+- hard to see the difference between the 2 lines
+
+Fourth figure:
+- not nice to look at with the glassy effect
+- confusing, source is not clear, kinda questionable
+
+Fifth figure:
+- very pleasing to look at, might e hard to know what exact windspeed it is 
+- color might help this but could make it overwhelming
+- as someone used to looking at grey scaled data, this seems like good visualization
+- it's interesting what choices of state capitals they choose to mark
+
+Aesthetic, substantive, perceptual
+
+what data visualization is :;
+- context
+- audience
+- data structure
+
+
+
+
+
+
+
+
+
+
+
+
+

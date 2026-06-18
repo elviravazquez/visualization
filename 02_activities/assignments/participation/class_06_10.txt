@@ -1,0 +1,38 @@
+Making data visualization accessible
+
+- colors of the graph is important
+
+'flattening the curve'
+- the fonts are way too small, the gradient shadow seems unnecessary, can make the line width thicker
+
+accessible design
+- clear concise info
+- present info in predictible barrier-free ways
+- easy to interact
+- reduce cognitive load
+
+
+how to do we design in an accessible way?
+- colour
+- mark size and color: small object with colour sjould have more saturation
+- brightness and contrast, high contrast is better
+- vidris packege for colourblindness
+
+Text
+-labels and legends
+-fonts and typefaces: sans-serif are more accessible for people
+- font size and spacing, should be large enough
+
+Describing the visualization:
+- should use alt-text to describe the figure
+
+Activity:
+- There are two people in a lab. A man is wearing a blue shirt and the woman is wearing a lab coat. The are standing infront of an experimental setup within a fume hood. They are having a discussion.
+
+
+alt text for graphs and plots:
+-level 1: the graph shows the way artist divide their time, least helpful 
+-level 2: what is the average spent sleeping for example, most useful
+-level 3: what do people spend the majority of their time with, most useful
+-level 4: interpretation, least useful
+
