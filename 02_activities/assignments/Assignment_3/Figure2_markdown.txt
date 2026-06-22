@@ -21,10 +21,10 @@ How did you ensure that your data visualization is accessible?
 - I think by adding pictures of the dog, it would make the figure more understandable.
 
 Who are the individuals and communities who might be impacted by your visualization?
-- I don't think this figure will have much impact to any community in particular. It could be useful information for a animal advocacy society though.
+- II think it could be used for understanding what pets are most common. This can be useful for shelter, vets and pet owners to know what to expect.
 
 How did you choose which features of your chosen dataset to include or exclude from your visualization?
 - I chose the most popular breeds. There were more than 100 breeds and it would be too much data for one figure of this type.
 
 What ‘underwater labour’ contributed to your final data visualization product?
-- nothing.
+- The work of the data collection. Plus also people actually registering their pets. I think it's a bit unusual that the are more dogs vs cats when I expected the opposite and this might be due to them being less likely to be registered.
