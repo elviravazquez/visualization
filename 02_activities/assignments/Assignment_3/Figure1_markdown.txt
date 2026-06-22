@@ -1,0 +1,31 @@
+Data set: 
+https://open.toronto.ca/dataset/licensed-dogs-and-cats/
+
+
+What software did you use to create your data visualization?
+- python: matplotlib and seaborn
+EDIT : I have now recreated it using excel.
+Who is your intended audience?
+- the general population
+
+What information or message are you trying to convey with your visualization?
+- I'm trying to show the ratio of cats to dogs as a function of time. 
+
+What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots?
+- I tried to use accessible colors for everyone. I used palette="colorblind" to make it more accessible
+
+How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+- The visualization should be very reproducible as it is done with python, an open source tool.
+EDIT: excel is not a free tool but it can be easily reproduced with python.
+
+How did you ensure that your data visualization is accessible?
+- I tried to choose a colour that can be seen even with colour blindness
+
+Who are the individuals and communities who might be impacted by your visualization?
+- I think it could be used for understanding what pets are most common. This can be useful for shelter, vets and pet owners to know what to expect.
+
+How did you choose which features of your chosen dataset to include or exclude from your visualization?
+- I did not exclude any data for this visualization.
+
+What ‘underwater labour’ contributed to your final data visualization product?
+- The work of the data collection. Plus also people actually registering their pets. I think it's a bit unusual that the are more dogs vs cats when I expected the opposite and this might be due to them being less likely to be registered.
